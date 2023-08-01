@@ -1,7 +1,7 @@
 {
   "name": "vite-vue-cli",
   "version": "1.0.0",
-  "description": "vue3+vite+eslint+prettier+ts+elementPlus脚手架",
+  "description": "vue3+vite+eslint+prettier",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wing1874/vue3-vite-cli.git"
+    "url": "https://github.com/wing1874/vite-vue-cli-config.git"
   },
   "dependencies": {
     "fs-extra": "^11.1.1",
